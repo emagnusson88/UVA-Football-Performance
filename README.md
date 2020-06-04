@@ -1,2 +1,2 @@
 # UVA-Football-Performance
-Contains paper from IEEE SIEDS conference
+Contains team paper from the IEEE SIEDS conference at the University of Virginia
